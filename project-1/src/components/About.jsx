@@ -1,0 +1,6 @@
+const About = () => {
+  return (
+    <div className="text-center text-2xl">About Page</div>
+  )
+}
+export default About
